@@ -1,0 +1,7 @@
+
+test: ./datasets/VehiclesDetectionDataset/test/images/
+train: ./datasets/VehiclesDetectionDataset/train/images/
+val: ./datasets/VehiclesDetectionDataset/val/images/
+
+nc: 5 
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
